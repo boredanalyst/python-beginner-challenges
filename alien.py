@@ -2,7 +2,6 @@
 
 import random as rd
 
-
 color_list = ["RED","GREEN","YELLOW"]
 alien_color = color_list[rd.randint(0,2)]
 
